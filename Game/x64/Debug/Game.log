@@ -1,0 +1,11 @@
+﻿  AnimatedGameObject.cpp
+  EnemyGameObject.cpp
+  Game.cpp
+c:\users\david\onedrive\documents\ece 2036\final project\game\game\game.cpp(52): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\david\onedrive\documents\ece 2036\final project\game\game\game.cpp(516): warning C4018: '<=': signed/unsigned mismatch
+c:\users\david\onedrive\documents\ece 2036\final project\game\game\game.cpp(527): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  GameObject.cpp
+  main.cpp
+  RegularGameObject.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\david\OneDrive\Documents\ECE 2036\Final Project\Game\x64\Debug\Game.exe
