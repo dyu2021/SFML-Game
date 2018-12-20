@@ -1,7 +1,6 @@
 Zombieland- a simple 2-D game created using the Simple and Fast Multimedia Library (SFML) for C++
-The goal of the game is to collect batteries randomnly located on screen to survive the zombie apocalypse and collide with a car to move on
-to the next level. Meanwhile, the player will have to avoid colliding with the zombies which move across the screen, spawning at random 
-locations and with different speeds. Once the player hits a zombie, he or she will instantly die. 
+
+The goal of the game is to collect batteries randomnly located on screen to survive the zombie apocalypse and collide with a car to move on to the next level. Meanwhile, the player will have to avoid colliding with the zombies which move across the screen, spawning at random locations and with different speeds. Once the player hits a zombie, he or she will instantly die. 
 
 To run the game:
 You will need Visual Studio 2017 and SFML 2.5.1 Visual C++ 15 64-bit. Also, Visual Studio must be set to Release Mode. 
